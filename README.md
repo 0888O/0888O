@@ -3,7 +3,7 @@
 Hi there! 👋  
 I'm **08880 (空八控控)**  
 A beginner developer currently learning **JavaScript**.
-my web: https://08home.com
+My web: https://08home.com
 
 ---
 
