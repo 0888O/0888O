@@ -2,7 +2,7 @@
 
 Hi there! 👋  
 I'm **08880 (空八控控)**  
-A beginner developer currently learning **JavaScript**.
+A beginner developer currently learning **JavaScript**.\n
 My web: https://08home.com
 
 ---
