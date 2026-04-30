@@ -1,16 +1,45 @@
-## Hi there 👋
+# 🚀 About Me
 
-<!--
-**0888O/0888O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋  
+I'm **08880 (空八控控)**  
+A beginner developer currently learning **JavaScript**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧠 Currently Learning
+- 🌱 JavaScript (Main focus)
+- 💡 Problem-solving & logic thinking
+- 🛠 Building small projects step by step
+
+---
+
+# 💻 Tech Stack
+
+## Languages I've learned / used:
+- 🐍 Python  
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript  
+
+---
+
+# 📌 Goals
+- 🔥 Become skilled in JavaScript
+- 🧩 Build useful and interesting projects
+- 🚀 Create my own personal website
+
+---
+
+# 📂 This Repository
+This repository is used to record my learning journey and practice code.
+
+---
+
+# 📫 Contact
+- Discord: (your discord)
+- Email: (optional)
+
+---
+
+# ✨ Note
+Still learning and improving every day 🚀
