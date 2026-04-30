@@ -36,8 +36,8 @@ This repository is used to record my learning journey and practice code.
 ---
 
 # 📫 Contact
-- Discord: (your discord)
-- Email: (optional)
+- Discord: 08880
+- Email: aa0968696208@gmail.com
 
 ---
 
